@@ -1,5 +1,7 @@
 # Fuzzy-comprehensive-evaluation-based-on-AHP
 Fuzzy comprehensive evaluation method based on Analytic hierarchy process
+    
+
     test 是投票数据矩阵    在代码文件夹里面有个test4.txt文件  可以直接改投票数据，需要和各个指标个数匹配
     U    是指明有几个待比较的地点  没啥用
     V    投标标准个数  默认4
